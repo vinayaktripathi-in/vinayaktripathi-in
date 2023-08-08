@@ -42,5 +42,5 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaktripathi-in&" alt="vinayaktripathi-in" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaktripathi-in&" alt="vinayaktripathi-in" /></p>
 
