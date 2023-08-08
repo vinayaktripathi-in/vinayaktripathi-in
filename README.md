@@ -41,5 +41,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vinayaktripathi-in&show_icons=true&locale=en" alt="vinayaktripathi-in" /></p>
 
 <br><br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaktripathi-in&" alt="vinayaktripathi-in" /></p>
 
