@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bee Recruiter](https://brecruiter.vayuz.com/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Portfolio Project](https://github.com/vinayaktripathi-in/portfolio-project)
 
